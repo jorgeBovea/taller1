@@ -10,3 +10,5 @@ en la carpeta dist.
 - Se usa la libreria de terceros gson 2.8 para cargar el archivo json.
 
 - En el README  se encuetra el manual de usuario
+
+- https://github.com/jorgeBovea/taller1
