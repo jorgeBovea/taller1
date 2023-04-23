@@ -1,0 +1,12 @@
+-El programa usa clases de java para organizar los productos, clientes, canasta y compra
+ademas de una clases para cargar y leer el json que funciona como inventario.
+
+- Para funcionar correctamente jar debe estar acompañado de la carpeta lib y del archivo inventory.json
+en la misma ruta.
+
+- Para ejecutarlo solo se debe ejecutar el comando java -jar taller1.jar en la carpeta raiz del taller o 
+en la carpeta dist.
+
+- Se usa la libreria de terceros gson 2.8 para cargar el archivo json.
+
+- En el README  se encuetra el manual de usuario

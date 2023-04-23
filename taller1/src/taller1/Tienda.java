@@ -46,7 +46,7 @@ public class Tienda {
                return;}
        Producto productoEs = inventario.listDeProductos().get(prodcuInt);
        
-       System.out.println("producto escojido: "+ productoEs.getName());
+       System.out.println("producto escogido: "+ productoEs.getName());
        System.out.println("descripción: "+ productoEs.getDescripcion());
        System.out.println("precio: $"+ productoEs.getPrecio());
        
