@@ -25,7 +25,7 @@ public class LoadElement {
     public void LoadElements() throws FileNotFoundException{
         
         Gson gson = new Gson();
-        Reader reader = new FileReader("inventory.json");
+        Reader reader = new FileReader("./inventory.json");
         
         List<Map> listProducto = gson.fromJson(reader, List.class);
         Map<String, Producto> productoMap = new HashMap<>();
