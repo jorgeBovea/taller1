@@ -1,0 +1,33 @@
+[
+        {
+            "name": "producto1",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":5000
+        },
+        {
+            "name": "producto2",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":6000
+        },
+        {
+            "name": "producto3",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":7000
+        },
+        {
+            "name": "producto4",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":8000
+        },
+        {
+            "name": "producto5",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":9000
+        },
+        {
+            "name": "producto10",
+            "description": "descrpcion genericca de un producto generico numero 1",
+            "precio":15000
+        }
+    ]
+    
